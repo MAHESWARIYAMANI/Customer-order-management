@@ -36,5 +36,5 @@ This Excel workbook is structured to help understand how small businesses manage
 - Improved organizational and data-handling skills
 
 **Yamani Maheswari**  
-Aspiring Data Analyst | Excel & SQL Enthusiast  
+Data Analyst | Excel & SQL Enthusiast  
 LinkedIn Profile : https://www.linkedin.com/in/maheswariyamani/
